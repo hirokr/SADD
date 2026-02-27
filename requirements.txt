@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+Pillow
+joblib
+python-speech-features
+scenedetect
+tensorboardX
+tqdm
+torch
+torchvision
